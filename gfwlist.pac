@@ -3,7 +3,7 @@
  * GFWList Last-Modified: 2021-08-12 01:07:10
  */
 
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'SOCKS5 127.0.0.1:1081';
 var rules = [
     [
         [],
@@ -11,6 +11,24 @@ var rules = [
     ],
     [
         [
+            "pro-api.coinmarketcap.com",
+            "app.nerve.fi",
+            "github.com",
+            "uniswap.org",
+            "godoc.org",
+            "microsoft.com",
+            "curve.fi",
+            "alchemyapi.io",
+            "etherscan.io",
+            "optimism.io",
+            "etherscan.com",
+            "github.io",
+            "finance",
+            "sakeperp.fi",
+            "sushi.com",
+            "app.sushi.com",
+            "bscscan.com",
+            "defillama.com",
             "aftygh.gov.tw",
             "aide.gov.tw",
             "aliyun.com",
