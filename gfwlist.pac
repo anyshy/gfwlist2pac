@@ -14,6 +14,7 @@ var rules = [
             "pro-api.coinmarketcap.com",
             "app.nerve.fi",
             "github.com",
+            "github.io",
             "uniswap.org",
             "godoc.org",
             "microsoft.com",
