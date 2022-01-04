@@ -11,6 +11,7 @@ var rules = [
     ],
     [
         [
+            "discord.com",
             "pro-api.coinmarketcap.com",
             "app.nerve.fi",
             "github.com",
